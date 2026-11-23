@@ -8,12 +8,16 @@
 /* Begin PBXBuildFile section */
 		A10000000000000000000011 /* BodigraphApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000021 /* BodigraphApp.swift */; };
 		A10000000000000000000012 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000022 /* ContentView.swift */; };
+		A10000000000000000000013 /* RecordEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000023 /* RecordEntryView.swift */; };
+		A10000000000000000000014 /* GoalSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000024 /* GoalSettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A10000000000000000000020 /* Bodigraph.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bodigraph.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A10000000000000000000021 /* BodigraphApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodigraphApp.swift; sourceTree = "<group>"; };
 		A10000000000000000000022 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A10000000000000000000023 /* RecordEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordEntryView.swift; sourceTree = "<group>"; };
+		A10000000000000000000024 /* GoalSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalSettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +38,8 @@
 			children = (
 				A10000000000000000000021 /* BodigraphApp.swift */,
 				A10000000000000000000022 /* ContentView.swift */,
+				A10000000000000000000023 /* RecordEntryView.swift */,
+				A10000000000000000000024 /* GoalSettingsView.swift */,
 			);
 			path = Bodigraph;
 			sourceTree = "<group>";
@@ -98,6 +104,8 @@
 			files = (
 				A10000000000000000000011 /* BodigraphApp.swift in Sources */,
 				A10000000000000000000012 /* ContentView.swift in Sources */,
+				A10000000000000000000013 /* RecordEntryView.swift in Sources */,
+				A10000000000000000000014 /* GoalSettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
